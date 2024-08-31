@@ -4,7 +4,7 @@
 
 This repository provides the necessary resources for the conducted data analysis on mental health in technology-related jobs.
 
-### Files Breakdown:
+### Files Breakdown
 
 #### LICENSE:
 
